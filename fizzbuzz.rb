@@ -5,10 +5,10 @@ if number % 3 = 0 && number % 5 = 0
   puts "FizzBuzz"
 end
 
-if number % 3 = 0 && number % 5 != 0
+if number % 3 = 0 
     puts "Fizz"
 end
 
-if number % 5 = 0 && number % 3 != 0
+if number % 5 = 0 
     puts "Buzz"
 end
